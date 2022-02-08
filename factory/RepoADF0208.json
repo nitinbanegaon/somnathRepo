@@ -1,0 +1,9 @@
+{
+	"name": "RepoADF0208",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9f63c8f5-12aa-42a4-bf92-b7d5db3e00d2",
+		"tenantId": "6f4609f9-c00f-4ffc-a0cd-4324311253e6"
+	}
+}
